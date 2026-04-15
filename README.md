@@ -1,12 +1,10 @@
-<!-- 🔥 ELITE GITHUB PROFILE README -->
+<!-- 💯 STABLE ELITE GITHUB PROFILE -->
 
 <h1 align="center">Amit Bhardwaj</h1>
 <h3 align="center">AI Engineer • Deep Learning • Reinforcement Learning • Intelligent Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/Apeiro7">
-    <img src="https://komarev.com/ghpvc/?username=Apeiro7&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Apeiro7&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -15,18 +13,19 @@
 
 AI-focused Computer Science student specializing in **Deep Learning, Reinforcement Learning, and Intelligent Systems**.
 
-I design systems that combine **prediction (ML/DL)** with **decision-making (RL)** to solve complex, real-world problems.
+I build systems that combine:
 
-* ⚡ Strong in **end-to-end ML pipelines**
-* 🧠 Experience with **time-series modeling & real-time systems**
-* 🚀 Focused on **scalable AI solutions**
+* 📊 **Prediction (Machine Learning / Deep Learning)**
+* 🔁 **Decision Making (Reinforcement Learning)**
+
+Focused on solving **real-world, large-scale problems using AI**.
 
 ---
 
 ## 🚀 Core Expertise
 
 * 🤖 Deep Learning: LSTM • GRU • CNN • MLP
-* 🔁 Reinforcement Learning: Q-Learning (state design, reward engineering)
+* 🔁 Reinforcement Learning: Q-Learning (state, reward, optimization)
 * 📊 Machine Learning: XGBoost, Scikit-learn
 * ⚙️ Systems: Simulation-based AI, real-time decision systems
 * 📈 Data: Time-series forecasting, feature engineering
@@ -52,49 +51,32 @@ I design systems that combine **prediction (ML/DL)** with **decision-making (RL)
 
 ### 🚀 Adaptive Intelligent System (AI + RL)
 
-**Problem:** Dynamic decision-making in complex environments
-**Approach:**
+* Built an AI system combining **Deep Learning + Reinforcement Learning**
+* Designed models for **prediction + dynamic decision-making**
+* Implemented **real-time data processing and optimization logic**
 
-* Deep Learning models for prediction
-* Reinforcement Learning for control optimization
-* Real-time data integration
-
-**Tech Used:**
-PyTorch • LSTM • GRU • MLP • Q-Learning • XGBoost
+**Tech:** PyTorch • LSTM • GRU • MLP • Q-Learning • XGBoost
 
 **Impact:**
 
 * Reduced system delay
-* Improved decision efficiency
-* Optimized performance metrics
+* Improved efficiency
+* Optimized decision performance
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats (Stable)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Apeiro7&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Apeiro7&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apeiro7&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Apeiro7&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apeiro7&theme=tokyo-night" />
 </p>
 
 ---
@@ -124,6 +106,18 @@ PyTorch • LSTM • GRU • MLP • Q-Learning • XGBoost
 
 ---
 
-## ⚡ Engineering Philosophy
+## ⚡ Current Focus
 
-> Build systems that don’t just predict the future — but actively shape it.
+* Advanced Deep Learning Architectures
+* Reinforcement Learning Optimization
+* Scalable AI Systems
+
+---
+
+## 💡 Philosophy
+
+> Build systems that don’t just predict the future — but intelligently act on it.
+
+---
+
+⭐️ *Open to collaboration, research, and impactful AI projects*
