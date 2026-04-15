@@ -42,16 +42,28 @@ Focused on solving **real-world, large-scale problems using AI**.
 
 ---
 
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages & Core
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,bash,java" />
+</p>
+
+---
+
 ### 🤖 AI / Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ML-Scikit--Learn-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ML-XGBoost-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DL-LSTM%20GRU%20CNN-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DL-LSTM-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DL-GRU-indigo?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DL-CNN-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DL-MLP-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -59,13 +71,15 @@ Focused on solving **real-world, large-scale problems using AI**.
 ### 📊 Data Science
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,r" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data-Pandas-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data-NumPy-lightgrey?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Visualization-Matplotlib-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Visualization-Seaborn-teal?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data-Feature%20Engineering-green?style=for-the-badge"/>
 </p>
 
 ---
@@ -73,7 +87,13 @@ Focused on solving **real-world, large-scale problems using AI**.
 ### ⚙️ Tools & Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,anaconda" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IDE-Jupyter-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Env-Anaconda-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI-CD-GitHub%20Actions-blue?style=for-the-badge"/>
 </p>
 
 ---
@@ -84,6 +104,8 @@ Focused on solving **real-world, large-scale problems using AI**.
   <img src="https://img.shields.io/badge/Simulation-SUMO-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API-TraCI-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/System-Real--Time%20AI-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RL-Q--Learning-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System-Decision%20Engine-red?style=for-the-badge"/>
 </p>
 
 ---
