@@ -37,7 +37,7 @@ Focused on solving **real-world, large-scale problems using AI**.
 ### 👨‍💻 Languages & Core
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,react" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,react,solidity" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ Focused on solving **real-world, large-scale problems using AI**.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,linux,sqllite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=bash,linux,sqlite,git,github,vscode" />
 </p>
 
 ---
