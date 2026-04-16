@@ -1,5 +1,3 @@
-<!-- 💯 STABLE ELITE GITHUB PROFILE -->
-
 <h1 align="center">Amit Bhardwaj</h1>
 <h3 align="center">AI Engineer • Deep Learning • Reinforcement Learning • Intelligent Systems</h3>
 
