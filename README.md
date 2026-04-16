@@ -83,7 +83,7 @@ Focused on solving **real-world, large-scale problems using AI**.
 <p align="center">
   <img src="https://img.shields.io/badge/IDE-Jupyter-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Env-Anaconda-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CI-CD-GitHub%20Actions-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
