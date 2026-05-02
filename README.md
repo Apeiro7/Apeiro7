@@ -30,6 +30,11 @@ Focused on solving **real-world, large-scale problems using AI**.
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Apeiro7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages & Core
