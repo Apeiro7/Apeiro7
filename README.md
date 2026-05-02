@@ -129,18 +129,18 @@ Focused on solving **real-world, large-scale problems using AI**.
 
 ---
 
-## 📈 GitHub Stats (Stable)
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apeiro7&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Apeiro7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79ff97&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Apeiro7&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Apeiro7&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=79ff97&currStreakLabel=58a6ff&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apeiro7&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apeiro7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&cache_seconds=86400" />
 </p>
 
 ---
